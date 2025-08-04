@@ -1,0 +1,68 @@
+MICHAEL THOMPSON
+Senior Software Engineer
+
+📧 michael.thompson@email.com | 📱 (555) 123-4567 | 🌐 linkedin.com/in/michaelthompson
+📍 San Francisco, CA | Portfolio: github.com/mthompson
+
+PROFESSIONAL SUMMARY
+Experienced Senior Software Engineer with 8+ years developing scalable web applications and leading cross-functional teams. Proven expertise in full-stack development, cloud architecture, and agile methodologies. Passionate about mentoring junior developers and driving technical innovation.
+
+TECHNICAL SKILLS
+• Programming Languages: Python, JavaScript, TypeScript, Java, Go
+• Frontend: React, Vue.js, Angular, HTML5, CSS3, SASS
+• Backend: Node.js, Django, Flask, Spring Boot, Express.js
+• Databases: PostgreSQL, MySQL, MongoDB, Redis
+• Cloud Platforms: AWS (EC2, S3, Lambda, RDS), Azure, Google Cloud
+• DevOps: Docker, Kubernetes, Jenkins, GitLab CI, Terraform
+• Tools: Git, Jira, Slack, VS Code, IntelliJ IDEA
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | TechCorp Inc. | January 2020 - Present
+• Lead development of microservices architecture serving 2M+ daily active users
+• Designed and implemented RESTful APIs using Python/Django and Node.js
+• Reduced application load time by 40% through performance optimization
+• Mentored team of 4 junior developers and conducted technical interviews
+• Collaborated with product managers and designers in agile sprints
+
+Software Engineer | StartupXYZ | June 2018 - December 2019
+• Built responsive web applications using React and TypeScript
+• Implemented automated testing suite increasing code coverage to 95%
+• Integrated payment systems (Stripe, PayPal) for e-commerce platform
+• Participated in code reviews and maintained CI/CD pipelines
+
+Junior Software Developer | WebSolutions Co. | August 2016 - May 2018
+• Developed frontend components using HTML, CSS, and JavaScript
+• Assisted in backend API development with Python and Flask
+• Fixed bugs and implemented feature requests in existing codebase
+• Learned agile development practices and version control with Git
+
+EDUCATION
+Bachelor of Science in Computer Science | University of California, Berkeley | 2016
+Relevant Coursework: Data Structures, Algorithms, Software Engineering, Database Systems
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect - Associate (2021)
+• Certified Scrum Master (CSM) (2020)
+• Google Cloud Professional Developer (2019)
+
+PROJECTS
+E-Commerce Platform | Personal Project
+• Built full-stack application using React, Node.js, and PostgreSQL
+• Implemented user authentication, shopping cart, and payment processing
+• Deployed on AWS with CI/CD pipeline using GitHub Actions
+
+Task Management API | Open Source Contribution
+• Contributed to RESTful API for task management system
+• Added real-time notifications using WebSockets
+• Project has 500+ GitHub stars and 50+ contributors
+
+LANGUAGES
+• English (Native)
+• Spanish (Conversational)
+• French (Basic)
+
+AWARDS & ACHIEVEMENTS
+• Employee of the Month - TechCorp Inc. (March 2021)
+• Hackathon Winner - Bay Area Tech Challenge (2019)
+• Dean's List - UC Berkeley (2014-2016)

@@ -1,0 +1,59 @@
+{
+  "test_metadata": {
+    "test_date": "2025-08-02",
+    "test_type": "document_generation_test",
+    "agent_tested": "document-formatter",
+    "test_status": "PASSED",
+    "integration_success": true,
+    "optimization_integration": "skills_match_recommendations_implemented"
+  },
+  "formatting_id": "doc_fmt_mt_2025_001_20250802",
+  "candidate_id": "mt_2025_001",
+  "job_id": "techinnovate_senior_fullstack_2025_001",
+  "document_metadata": {
+    "creation_date": "2025-08-02",
+    "template_used": "Technical Professional",
+    "formats_generated": ["PDF", "Word", "HTML", "Plain Text"],
+    "ats_compatibility_score": "95%",
+    "estimated_parsing_accuracy": "98%",
+    "optimization_source": "skills_match_analysis_integration"
+  },
+  "quality_metrics": {
+    "ats_score": "95%",
+    "skills_integration": "88% match recommendations implemented",
+    "keyword_density": "12% optimized",
+    "professional_appearance": "Excellent",
+    "format_consistency": "High across all formats"
+  },
+  "optimization_integration": {
+    "skills_match_score": 88,
+    "recommendations_implemented": {
+      "high_priority": [
+        "✓ Emphasized payment systems integration experience (Stripe, PayPal)",
+        "✓ Highlighted microservices architecture leadership at scale",
+        "✓ Showcased performance optimization achievements with specific metrics",
+        "✓ Connected existing technical experience to fintech applications"
+      ],
+      "medium_priority": [
+        "✓ Quantified mentoring and leadership impact with team metrics",
+        "✓ Expanded on automated testing and CI/CD pipeline experience",
+        "✓ Added GraphQL learning to skill development plan"
+      ]
+    },
+    "competitive_advantages_highlighted": [
+      "Strong technical foundation across required tech stack",
+      "Proven leadership and mentoring experience with metrics",
+      "Quantifiable performance optimization achievements",
+      "Relevant payment systems integration experience"
+    ]
+  },
+  "sample_formatted_content": {
+    "professional_summary": "Results-driven Senior Full Stack Engineer with 8+ years architecting scalable fintech-ready applications serving 2M+ users daily. Proven expertise in JavaScript, TypeScript, Python, and React with demonstrated 40% performance improvements through microservices optimization. Technical leader experienced in payment systems integration (Stripe, PayPal) and mentoring cross-functional teams in agile environments.",
+    "key_achievements": [
+      "Architected microservices payment processing system reducing transaction latency by 40%",
+      "Led cross-functional team of 8 developers implementing React/TypeScript frontend",
+      "Mentored 5 junior developers increasing team productivity by 25%",
+      "Developed payment gateway integrations processing $2M+ monthly transactions"
+    ]
+  }
+}

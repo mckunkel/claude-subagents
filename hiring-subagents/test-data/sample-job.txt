@@ -1,0 +1,71 @@
+Senior Full Stack Engineer
+TechInnovate Solutions | San Francisco, CA | Full-time | $140,000 - $180,000
+
+About TechInnovate Solutions:
+We're a fast-growing fintech startup revolutionizing digital payments. Our team of 150+ engineers builds cutting-edge solutions that process billions in transactions annually. We value innovation, collaboration, and work-life balance.
+
+Position Overview:
+We're seeking a Senior Full Stack Engineer to join our platform engineering team. You'll be responsible for building scalable web applications, designing APIs, and mentoring junior developers. This role offers significant growth opportunities and the chance to work with cutting-edge technologies.
+
+Required Qualifications:
+• Bachelor's degree in Computer Science, Engineering, or related field
+• 5+ years of professional software development experience
+• Strong proficiency in JavaScript/TypeScript and modern frameworks (React, Vue.js, or Angular)
+• Experience with backend technologies (Node.js, Python, or Java)
+• Solid understanding of relational databases (PostgreSQL, MySQL)
+• Experience with cloud platforms (AWS, Azure, or GCP)
+• Proficiency with Git version control and CI/CD pipelines
+• Strong problem-solving and debugging skills
+• Excellent communication and collaboration abilities
+
+Preferred Qualifications:
+• Master's degree in Computer Science or related field
+• Experience in fintech or financial services industry
+• Knowledge of microservices architecture and containerization (Docker, Kubernetes)
+• Experience with NoSQL databases (MongoDB, Redis)
+• Familiarity with payment processing systems and security standards
+• AWS certifications (Solutions Architect, Developer)
+• Experience with GraphQL and REST API design
+• Knowledge of automated testing frameworks (Jest, Cypress, Selenium)
+
+Key Responsibilities:
+• Design and develop scalable web applications using React and Node.js
+• Build and maintain RESTful APIs and microservices
+• Collaborate with product managers, designers, and other engineers
+• Participate in code reviews and maintain high code quality standards
+• Mentor junior developers and conduct technical interviews
+• Optimize application performance and ensure security best practices
+• Contribute to architectural decisions and technical roadmap planning
+
+Technical Stack:
+• Frontend: React, TypeScript, Redux, Material-UI
+• Backend: Node.js, Express.js, Python, Django
+• Databases: PostgreSQL, MongoDB, Redis
+• Cloud: AWS (EC2, S3, Lambda, RDS), Docker, Kubernetes
+• Tools: Git, GitHub Actions, Jira, Slack, VS Code
+
+What We Offer:
+• Competitive salary: $140,000 - $180,000 based on experience
+• Equity package with significant upside potential
+• Comprehensive health, dental, and vision insurance
+• 401(k) with company matching
+• Flexible PTO and remote work options (hybrid model)
+• Professional development budget ($3,000 annually)
+• Top-tier equipment and home office stipend
+• Team events and wellness programs
+
+Company Culture:
+• Innovation-driven environment with autonomy to explore new technologies
+• Collaborative team culture with emphasis on knowledge sharing
+• Commitment to diversity, equity, and inclusion
+• Fast-paced startup environment with significant growth opportunities
+• Work-life balance with flexible hours and remote work options
+
+Application Process:
+Please submit your resume, cover letter, and portfolio showcasing your best work. Include links to GitHub repositories or live projects that demonstrate your technical skills.
+
+Equal Opportunity Employer:
+TechInnovate Solutions is an equal opportunity employer committed to diversity and inclusion. We welcome applications from all qualified candidates regardless of race, gender, age, religion, sexual orientation, or disability status.
+
+Application Deadline: March 15, 2025
+Contact: careers@techinnovate.com

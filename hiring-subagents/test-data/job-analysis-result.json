@@ -1,0 +1,85 @@
+{
+  "test_metadata": {
+    "test_date": "2025-08-02",
+    "agent_tested": "job-extractor",
+    "test_status": "PASSED",
+    "extraction_completeness": "Complete",
+    "requirement_clarity": "Very Detailed"
+  },
+  "job_analysis": {
+    "job_id": "techinnovate_senior_fullstack_2025_001",
+    "basic_info": {
+      "title": "Senior Full Stack Engineer",
+      "company": "TechInnovate Solutions",
+      "industry": "Fintech/Financial Technology",
+      "location": "San Francisco, CA",
+      "employment_type": "Full-time",
+      "remote_options": "Hybrid",
+      "salary_range": "$140,000 - $180,000",
+      "posting_date": "Not specified",
+      "application_deadline": "March 15, 2025"
+    },
+    "required_qualifications": {
+      "education": {
+        "degree_level": "Bachelor's",
+        "field_of_study": ["Computer Science", "Engineering", "Related field"],
+        "alternative_experience": "Not explicitly stated"
+      },
+      "experience": {
+        "years_required": 5,
+        "specific_experience": ["Professional software development", "Web application development", "API design"],
+        "industry_experience": ["Software development"]
+      },
+      "technical_skills": {
+        "programming_languages": ["JavaScript", "TypeScript", "Python", "Java", "Node.js"],
+        "frameworks": ["React", "Vue.js", "Angular", "Express.js", "Django"],
+        "tools": ["Git", "CI/CD pipelines"],
+        "platforms": ["AWS", "Azure", "GCP"],
+        "databases": ["PostgreSQL", "MySQL"]
+      },
+      "certifications": [],
+      "languages": ["English (implied)"]
+    },
+    "preferred_qualifications": {
+      "additional_skills": ["Microservices architecture", "Containerization", "Payment processing systems", "GraphQL", "REST API design", "Automated testing"],
+      "nice_to_have_experience": ["Fintech industry", "Financial services"],
+      "bonus_certifications": ["AWS Solutions Architect", "AWS Developer"],
+      "advanced_education": "Master's degree in Computer Science or related field"
+    },
+    "soft_skills": [
+      "Strong problem-solving",
+      "Debugging skills",
+      "Excellent communication",
+      "Collaboration abilities",
+      "Mentoring capabilities",
+      "Knowledge sharing"
+    ],
+    "responsibilities": [
+      "Design and develop scalable web applications using React and Node.js",
+      "Build and maintain RESTful APIs and microservices",
+      "Collaborate with product managers, designers, and other engineers",
+      "Participate in code reviews and maintain high code quality standards",
+      "Mentor junior developers and conduct technical interviews",
+      "Optimize application performance and ensure security best practices",
+      "Contribute to architectural decisions and technical roadmap planning"
+    ],
+    "company_culture": {
+      "values": ["Innovation", "Collaboration", "Work-life balance", "Diversity", "Equity", "Inclusion"],
+      "work_environment": "Fast-paced fintech startup",
+      "team_size": "150+ engineers",
+      "growth_opportunities": "Significant growth opportunities, professional development budget, technical leadership"
+    },
+    "analysis_metadata": {
+      "seniority_level": "Senior",
+      "role_type": "Technical Individual Contributor with Leadership",
+      "skill_complexity": "High",
+      "requirement_clarity": "Very Detailed",
+      "competitiveness": "Highly competitive",
+      "keyword_density": {
+        "technical": 70,
+        "leadership": 20,
+        "communication": 10
+      }
+    }
+  }
+}

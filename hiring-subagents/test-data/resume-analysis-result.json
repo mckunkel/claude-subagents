@@ -1,0 +1,129 @@
+{
+  "test_metadata": {
+    "test_date": "2025-08-02",
+    "agent_tested": "resume-analyzer",
+    "test_status": "PASSED",
+    "parsing_confidence": "98%",
+    "extraction_completeness": "Complete"
+  },
+  "candidate_analysis": {
+    "candidate_id": "mt_2025_001",
+    "personal_info": {
+      "name": "Michael Thompson",
+      "email": "michael.thompson@email.com",
+      "phone": "(555) 123-4567",
+      "location": "San Francisco, CA",
+      "linkedin": "linkedin.com/in/michaelthompson",
+      "summary": "Experienced Senior Software Engineer with 8+ years developing scalable web applications and leading cross-functional teams. Proven expertise in full-stack development, cloud architecture, and agile methodologies. Passionate about mentoring junior developers and driving technical innovation."
+    },
+    "experience": [
+      {
+        "title": "Senior Software Engineer",
+        "company": "TechCorp Inc.",
+        "dates": "January 2020 - Present",
+        "duration_months": 60,
+        "responsibilities": [
+          "Lead development of microservices architecture serving 2M+ daily active users",
+          "Designed and implemented RESTful APIs using Python/Django and Node.js",
+          "Collaborated with product managers and designers in agile sprints"
+        ],
+        "achievements": [
+          "Reduced application load time by 40% through performance optimization",
+          "Mentored team of 4 junior developers and conducted technical interviews"
+        ],
+        "industry": "Technology"
+      },
+      {
+        "title": "Software Engineer",
+        "company": "StartupXYZ",
+        "dates": "June 2018 - December 2019",
+        "duration_months": 18,
+        "responsibilities": [
+          "Built responsive web applications using React and TypeScript",
+          "Integrated payment systems (Stripe, PayPal) for e-commerce platform",
+          "Participated in code reviews and maintained CI/CD pipelines"
+        ],
+        "achievements": [
+          "Implemented automated testing suite increasing code coverage to 95%"
+        ],
+        "industry": "Technology"
+      },
+      {
+        "title": "Junior Software Developer",
+        "company": "WebSolutions Co.",
+        "dates": "August 2016 - May 2018",
+        "duration_months": 21,
+        "responsibilities": [
+          "Developed frontend components using HTML, CSS, and JavaScript",
+          "Assisted in backend API development with Python and Flask",
+          "Fixed bugs and implemented feature requests in existing codebase"
+        ],
+        "achievements": [
+          "Learned agile development practices and version control with Git"
+        ],
+        "industry": "Technology"
+      }
+    ],
+    "skills": {
+      "technical": [
+        "Python", "JavaScript", "TypeScript", "Java", "Go", "React", "Vue.js", "Angular",
+        "Node.js", "Django", "Flask", "Spring Boot", "Express.js"
+      ],
+      "soft_skills": [
+        "Leadership", "Mentoring", "Cross-functional collaboration", "Agile methodologies",
+        "Technical interviews", "Code reviews"
+      ],
+      "tools_software": [
+        "AWS", "Azure", "Google Cloud", "Docker", "Kubernetes", "Jenkins", "GitLab CI",
+        "Terraform", "Git", "Jira", "Slack", "VS Code", "IntelliJ IDEA", "PostgreSQL",
+        "MySQL", "MongoDB", "Redis"
+      ],
+      "languages": [
+        "English (Native)", "Spanish (Conversational)", "French (Basic)"
+      ]
+    },
+    "education": [
+      {
+        "degree": "Bachelor of Science",
+        "field": "Computer Science",
+        "institution": "University of California, Berkeley",
+        "graduation_date": "2016",
+        "gpa": null
+      }
+    ],
+    "certifications": [
+      {
+        "name": "AWS Certified Solutions Architect - Associate",
+        "issuer": "Amazon Web Services",
+        "date": "2021",
+        "expiry": null
+      },
+      {
+        "name": "Certified Scrum Master (CSM)",
+        "issuer": "Scrum Alliance",
+        "date": "2020",
+        "expiry": null
+      },
+      {
+        "name": "Google Cloud Professional Developer",
+        "issuer": "Google Cloud",
+        "date": "2019",
+        "expiry": null
+      }
+    ],
+    "analysis_metadata": {
+      "total_experience_years": 8,
+      "career_level": "Senior-level",
+      "primary_industry": "Technology",
+      "key_strengths": [
+        "Full-stack development expertise",
+        "Cloud architecture and DevOps",
+        "Team leadership and mentoring",
+        "Performance optimization",
+        "Microservices architecture"
+      ],
+      "document_quality": "High",
+      "parsing_confidence": "98%"
+    }
+  }
+}

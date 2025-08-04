@@ -1,0 +1,106 @@
+{
+  "test_metadata": {
+    "test_date": "2025-08-02",
+    "test_type": "integration_test",
+    "agents_tested": ["resume-analyzer", "job-extractor", "skills-matcher"],
+    "test_status": "PASSED",
+    "integration_success": true,
+    "data_flow_validated": true
+  },
+  "skills_match_analysis": {
+    "match_analysis_id": "skills_match_mt_2025_001_techinnovate_20250802",
+    "candidate_id": "mt_2025_001",
+    "job_id": "techinnovate_senior_fullstack_2025_001",
+    "overall_match": {
+      "match_score": 88,
+      "match_category": "Strong Match",
+      "recommendation": "Excellent candidate with strong technical alignment and relevant experience. Minor gaps in fintech domain knowledge.",
+      "confidence_level": "High"
+    },
+    "skill_analysis": {
+      "technical_skills": {
+        "matched_skills": [
+          {
+            "skill": "JavaScript",
+            "match_type": "exact",
+            "candidate_proficiency": "Expert",
+            "job_importance": "Required",
+            "evidence": ["8 years experience", "React/Angular projects", "Full-stack development"]
+          },
+          {
+            "skill": "TypeScript",
+            "match_type": "exact",
+            "candidate_proficiency": "Advanced",
+            "job_importance": "Required",
+            "evidence": ["E-commerce platform development", "Modern web applications"]
+          },
+          {
+            "skill": "Python",
+            "match_type": "exact",
+            "candidate_proficiency": "Expert",
+            "job_importance": "Required",
+            "evidence": ["Django/Flask experience", "8+ years backend development", "API development"]
+          },
+          {
+            "skill": "Node.js",
+            "match_type": "exact",
+            "candidate_proficiency": "Advanced",
+            "job_importance": "Required",
+            "evidence": ["RESTful API development", "Microservices architecture"]
+          },
+          {
+            "skill": "React",
+            "match_type": "exact",
+            "candidate_proficiency": "Expert",
+            "job_importance": "Required",
+            "evidence": ["Responsive web applications", "E-commerce platform", "Frontend expertise"]
+          }
+        ],
+        "partial_matches": [
+          {
+            "skill": "Angular",
+            "candidate_skill": "Angular",
+            "match_strength": "Strong",
+            "transferability": "High",
+            "learning_curve": "Already proficient"
+          }
+        ],
+        "missing_skills": [
+          {
+            "skill": "GraphQL",
+            "importance": "Preferred",
+            "difficulty": "Low",
+            "acquisition_time": "2-4 weeks"
+          }
+        ]
+      }
+    },
+    "optimization_recommendations": {
+      "high_priority": [
+        "Emphasize payment systems integration experience (Stripe, PayPal)",
+        "Highlight microservices architecture leadership at scale",
+        "Showcase performance optimization achievements with specific metrics",
+        "Connect existing technical experience to fintech applications"
+      ],
+      "medium_priority": [
+        "Research fintech industry trends and regulations",
+        "Quantify mentoring and leadership impact with team metrics",
+        "Expand on automated testing and CI/CD pipeline experience",
+        "Add GraphQL learning to skill development plan"
+      ]
+    },
+    "match_metadata": {
+      "analysis_date": "2025-08-02",
+      "total_job_requirements": 28,
+      "matched_requirements": 25,
+      "missing_critical": 0,
+      "missing_preferred": 3,
+      "competitive_advantages": [
+        "Strong technical foundation across required tech stack",
+        "Proven leadership and mentoring experience",
+        "Quantifiable performance optimization achievements",
+        "Relevant payment systems integration experience"
+      ]
+    }
+  }
+}
